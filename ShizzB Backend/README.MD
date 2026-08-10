@@ -9,9 +9,9 @@ ShizzB is a powerful and modern full stack eCommerce web application built using
 - **Express.js:** Express.js is a minimal and flexible Node.js web application framework that offers a robust set of features for web and mobile applications.
 - **MongoDB:** MongoDB is a developer-friendly data platform that provides the services and tools necessary to build distributed applications at scale.
 - **Mongoose:** Mongoose provides a straightforward, schema-based solution to model your application data, offering built-in type casting, validation, and query building.
-- **Stripe:** Stripe offers online payment solutions, allowing you to create a secure and reliable website with e-commerce functionality.
+- **RazorPay:** RazorPay offers online payment solutions, allowing you to create a secure and reliable website with e-commerce functionality.
 - **Nodemailer:** Nodemailer is a module for Node.js applications that facilitates easy email sending, keeping your users informed and engaged.
-- **Authentication:** Shofy includes features for Google login, user registration, email verification, forgot password, reset password, and profile updates.
+- **Authentication:** ShizzB includes features for Google login, user registration, email verification, forgot password, reset password, and profile updates.
 - **Redux Toolkit:** Manage state effortlessly with Redux Toolkit, providing a convenient and efficient way to handle state in your application.
 - **RTK Query:** RTK Query is a powerful data fetching and caching tool, ensuring efficient data retrieval for a smoother user experience.
 - **Typescript + Next.js App Directory:** Shofy leverages TypeScript in combination with Next.js, enhancing code reliability and maintainability.
@@ -27,7 +27,7 @@ ShizzB is a powerful and modern full stack eCommerce web application built using
 - **Express.js:** Create a robust backend for your eCommerce website using Express.js.
 - **MongoDB:** Store and retrieve data efficiently with the flexibility and scalability of MongoDB.
 - **Mongoose:** Model your application data effortlessly with Mongoose's schema-based solution.
-- **Stripe:** Integrate secure and reliable payment solutions into your online store.
+- **Razorpay:** Integrate secure and reliable payment solutions into your online store.
 - **Nodemailer:** Keep your users informed with easy email sending capabilities.
 - **Authentication:** Enable secure user registration, login, and profile updates, including Google login option.
 - **Redux Toolkit:** Efficiently manage state in your application with Redux Toolkit.
@@ -45,14 +45,14 @@ ShizzB is a powerful and modern full stack eCommerce web application built using
 - **Multiple Home Pages:** Choose from a variety of home page designs to best suit your business.
 - **Inner Pages:** Access a range of inner pages for various sections of your eCommerce website.
 - **Image Background:** Customize page backgrounds with visually appealing images.
-- **Flexible and Multi-Purpose:** Shofy is versatile and can be adapted to various eCommerce niches.
+- **Flexible and Multi-Purpose:** ShizzB is versatile and can be adapted to various eCommerce niches.
 - **Valid CSS3:** Comply with modern CSS standards for a better user experience.
 - **24/7 Awesome Support:** Get continuous support for any inquiries or issues you may encounter.
 - **Detailed Documentation:** Access comprehensive documentation for easy development and setup.
 
 ## Powerful Additional Features
 
-- **All E-commerce Features and Apps Included:** Shofy provides a comprehensive eCommerce solution with all the essential features and apps needed for a successful online store.
+- **All E-commerce Features and Apps Included:** ShizzB provides a comprehensive eCommerce solution with all the essential features and apps needed for a successful online store.
 - **Variation Swatch:** Create clean and professional product pages with variation swatches that capture your customer's attention and allow easy selection of product variations.
 - **Filter Variations, Pagination, Filters by Size & Color:** Improve user experience and boost conversion rates by reducing the time needed for customers to complete their orders through filtering options and pagination.
 - **Video Gallery:** Offer customers a detailed view of products with an engaging video gallery that showcases products from different angles or in use.
@@ -65,7 +65,7 @@ ShizzB is a powerful and modern full stack eCommerce web application built using
 
 ## Installation and Usage
 
-To get started with Shofy, follow these steps:
+To get started with ShizzB, follow these steps:
 
 1. Clone the repository:
 
