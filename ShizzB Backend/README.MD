@@ -1,8 +1,6 @@
 # ShizzB – Full Stack eCommerce Web Application + Admin Panel
 
 
-![ShizzB Image Banner](https://i.ibb.co/KsDDmmg/shizzB-banner.png)
-
 ShizzB is a powerful and modern full stack eCommerce web application built using Next.js, Express.js, MongoDB with Mongoose, Redux Toolkit, RTK Query, Stripe payment method, Bootstrap 5, and Sass. It includes a feature-rich admin panel for easy management and control of your online store.
 
 ## Features Overview
@@ -122,7 +120,7 @@ To get started with Shofy, follow these steps:
 
 ## Thank You for Choosing ShizzB!
 
-We hope you find Shofy to be a powerful and effective solution for your eCommerce needs. Should you encounter
+We hope you find ShizzB to be a powerful and effective solution for your eCommerce needs. Should you encounter
 
  any issues or have any questions, please feel free to reach out to our support team at contactinetworkhub@gmail.com. Happy selling!
  
