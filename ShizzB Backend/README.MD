@@ -1,7 +1,7 @@
 # ShizzB – Full Stack eCommerce Web Application + Admin Panel
 
 
-![ShizzB Image Banner](https://i.ibb.co/KsDDmmg/shofy-banner.png)
+![ShizzB Image Banner](https://i.ibb.co/KsDDmmg/shizzB-banner.png)
 
 ShizzB is a powerful and modern full stack eCommerce web application built using Next.js, Express.js, MongoDB with Mongoose, Redux Toolkit, RTK Query, Stripe payment method, Bootstrap 5, and Sass. It includes a feature-rich admin panel for easy management and control of your online store.
 
@@ -72,7 +72,7 @@ To get started with Shofy, follow these steps:
 1. Clone the repository:
 
    ```bash
-   https://github.com/Hamed-Hasan/shofy-ecommerce-backend.git
+   https://github.com/vishalsharma1505/shizzb-backend.git
    ```
 
 2. Install dependencies:
@@ -99,19 +99,19 @@ To get started with Shofy, follow these steps:
 
 ## Client Side Live Link
 
-[Shofy Client Side Live Link](https://shofy-front-end.vercel.app)
+[ShizzB Client Side Live Link](https://shizzb-frontend-28egza6t1-vishalsharma1505s-projects.vercel.app/)
 
 ## Server Side Live Link
 
-[Shofy Server Side Live Link](https://shofy-backend.vercel.app)
+[ShizzB Server Side Live Link](https://shizzb-backend.onrender.com)
 
 ## Client Side Repo
 
-[Shofy Client Side Repo](https://github.com/Hamed-Hasan/shofy-ecommerce-client.git)
+[ShizzB Client Side Repo](https://github.com/vishalsharma1505/shizzb-backend.git)
 
 ## Server Side Repo
 
-[Shofy Server Side Repo](https://github.com/Hamed-Hasan/shofy-ecommerce-backend.git)
+[ShizzB Server Side Repo](https://github.com/vishalsharma1505/shizzb-frontend.git)
 
 ## Sources and Credits
 
@@ -120,9 +120,9 @@ To get started with Shofy, follow these steps:
 - Google Fonts
 - Free Font Awesome Icons by Fontawesome
 
-## Thank You for Choosing Shofy!
+## Thank You for Choosing ShizzB!
 
 We hope you find Shofy to be a powerful and effective solution for your eCommerce needs. Should you encounter
 
- any issues or have any questions, please feel free to reach out to our support team at swe.hamedhasan@gmail.com. Happy selling!
+ any issues or have any questions, please feel free to reach out to our support team at contactinetworkhub@gmail.com. Happy selling!
  
